@@ -32,4 +32,4 @@
     echo $_SERVER["REMOTE_ADDR"]."<br>";
     echo "<hr>";
 
-    $pedro = "henrique";
+    $pedro = "henri";
